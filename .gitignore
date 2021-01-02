@@ -24,8 +24,7 @@
 hs_err_pid*
 
 # Ignore
-**/metadata/*
-.metadata
+/metadata/
 bin/
 tmp/
 *.tmp
