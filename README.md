@@ -24,3 +24,4 @@ The basic concepts of Java with problem solving techniques.
 - A Very Big Sum
 - Add Two Arrays
 - Compare The Triplets
+- Diagonal Difference
