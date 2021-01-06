@@ -18,6 +18,10 @@ The basic concepts of Java with problem solving techniques.
 - Java Stdin and Stdout II
 	- Java Stdin and Stdout II alternative solution
 - If-Else
+- Java Output Formatting
+- Java Loops I
+- Java Loops II
+- Java Datatypes
 
 ## Problem Solving
 - Simple Array Sum
